@@ -20,7 +20,7 @@ The [data](https://github.com/letitbevi/sentences-mentioned-Trump-from-2012-to-2
 | `sentences`      | The number of sentences      |  Integer |
 | `results` | All the data related to Donald Trump     | List/Array |
 
-##### Within results:
+##### Within results
 
 | Field        | Description           | Type  |
 | ------------- |:-------------:| -----:|
@@ -30,7 +30,9 @@ The [data](https://github.com/letitbevi/sentences-mentioned-Trump-from-2012-to-2
 | `title` | The title of the news  | String |
 | `webUrl` | The URL to the web page   | String |
 
-##### JSON:
+## Example
+
+##### JSON
 
 Let's take a snippet of data in _2016-01-01-to-2016-11-08_sents_mentioned_trump.json_ as an example:
 
