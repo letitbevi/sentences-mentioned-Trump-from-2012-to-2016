@@ -20,7 +20,7 @@ The [data](https://github.com/letitbevi/sentences-mentioned-Trump-from-2012-to-2
 | `sentences`      | The number of sentences      |  Integer |
 | `results` | All the data related to Donald Trump     | List/Array |
 
-##### Within results
+##### Within `results`
 
 | Field        | Description           | Type  |
 | ------------- |:-------------:| -----:|
