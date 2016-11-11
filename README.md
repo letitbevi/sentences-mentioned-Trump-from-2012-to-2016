@@ -12,9 +12,7 @@ The [data](https://github.com/letitbevi/sentences-mentioned-Trump-from-2012-to-2
 - 2015-01-01-to-2015-12-31_sents_mentioned_trump.json
 - 2016-01-01-to-2016-11-08_sents_mentioned_trump.json
 
-## Example
-
-Let's take _2016-01-01-to-2016-11-08_sents_mentioned_trump.json_ as an example:
+## Params
 
 | Field        | Description           | Type  |
 | ------------- |:-------------:| -----:|
@@ -33,6 +31,8 @@ Let's take _2016-01-01-to-2016-11-08_sents_mentioned_trump.json_ as an example:
 | `webUrl` | The URL to the web page   | String |
 
 ##### JSON:
+
+Let's take a snippet of data in _2016-01-01-to-2016-11-08_sents_mentioned_trump.json_ as an example:
 
 ```JSON
 {
