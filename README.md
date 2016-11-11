@@ -32,6 +32,8 @@ Let's take _2016-01-01-to-2016-11-08_sents_mentioned_trump.json_ as an example:
 | `title` | The title of the news  | String |
 | `webUrl` | The URL to the web page   | String |
 
+##### JSON:
+
 ```JSON
 {
   "docs": 6029,
@@ -81,9 +83,6 @@ Let's take _2016-01-01-to-2016-11-08_sents_mentioned_trump.json_ as an example:
       "title": "Is Facebook the enemy of truth and civic unity?",
       "webUrl": "https://www.theguardian.com/technology/2016/jan/01/facebook-truth-trump-obama"
     },
-    ...
-    ...
-    ...
   ]   
 }
 ```
