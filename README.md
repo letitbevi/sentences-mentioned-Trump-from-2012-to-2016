@@ -1,6 +1,6 @@
 # Sentences mentioned Trump from 2012 to 2016
 
-Web scraping: extract sentences from [The Guardian](https://www.theguardian.com/) that mentioned 'Trump' and related metadata.
+Web scraping: extract sentences and their related metadata from [The Guardian](https://www.theguardian.com/) that mentioned 'Trump'.
 
 ## The Guardian data
 
