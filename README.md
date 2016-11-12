@@ -2,6 +2,9 @@
 
 Web scraping: extract sentences and their related metadata from [The Guardian](https://www.theguardian.com/) that mentioned 'Trump'.
 
+- The number of articles: 7761
+- The number of sentences: 64622
+
 ## The Guardian data
 
 The [data](https://github.com/letitbevi/sentences-mentioned-Trump-from-2012-to-2016/tree/master/data) folder contains 5 JSON files:
